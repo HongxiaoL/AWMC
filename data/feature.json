@@ -1,0 +1,32 @@
+{
+  "Symmetry & Lattice": [
+    "space_group_number",
+    "symmetry_degrees_of_freedom",
+    "sum_of_wyckoff_multiplicity",
+    "lattice_anisotropy_ratio",
+    "crystal_system_homogeneity",
+    "point_group_order"
+  ],
+  "Local Geometric Distortion": [
+    "effective_coordination_number",
+    "octahedral_angle_variance",
+    "atomic_off_centering_displacement",
+    "smooth_overlap_atomic_positions_distance",
+    "voronoi_volume_entropy"
+  ],
+  "Bonding & Charge": [
+    "integrated_crystal_orbital_hamilton_population",
+    "madelung_electrostatic_energy",
+    "bond_valence_sum_deviation",
+    "orbital_filling_difference",
+    "electrostatic_valence_value"
+  ],
+  "Dynamic Evolution": [
+    "volume_deviation_ratio",
+    "lattice_angle_deviation"
+  ],
+  "Other Features": [
+    "molecular_assembly_chirality",
+    "high_frequency_dielectric_constant"
+  ]
+}

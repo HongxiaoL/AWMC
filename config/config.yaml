@@ -1,0 +1,19 @@
+random_seed: 42
+llm_call: openai
+allocate_sample_ratio: 0.5
+new_chara_num: 10
+failure_top_percent: 0.01
+chara_num: 20
+models:
+- equflash
+- equiformer
+- esen
+- grace
+- matris
+- nequip
+- pet
+- sevennet
+- tace
+extract_rate: 0.1
+max_workers: 10
+max_retries: 3
